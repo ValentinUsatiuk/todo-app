@@ -1,6 +1,4 @@
-clean the programshower
 meet
-do1
 hi1
 make soup
 todos
